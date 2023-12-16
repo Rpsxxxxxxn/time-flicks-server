@@ -1,4 +1,4 @@
-# time-flicks-server
+# Time-Flicks-Server
 
 # Python
 FastAPIを使用しています  
